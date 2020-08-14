@@ -1,0 +1,17 @@
+// yönetici onayına düşen
+{
+    "employeeId": 1,
+    "requesterId": 0,
+    "leaveType": 2,
+    "startDate": "2020-08-14T08:59:06.785Z",
+    "endDate": "2020-08-15T08:59:06.785Z"
+}
+
+// Otomatik onaylanan
+{
+    "employeeId": 1,
+    "requesterId": 0,
+    "leaveType": 1,
+    "startDate": "2020-08-14T08:59:06.785Z",
+    "endDate": "2020-08-15T08:59:06.785Z"
+}

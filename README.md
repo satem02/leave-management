@@ -1,0 +1,3 @@
+- docs klasorunda bir kaç tane ornek requst bulunmaktadır.      &nbsp;
+- UseInMemoryDatabase kullanıldığı için direk kullanılabilir.    &nbsp;  
+- LeaveService servisinde bulunan AddDefaultLeave methodu altında kullanıcı için yeni izin hak ediliş olarak oluşturulur. &nbsp;  

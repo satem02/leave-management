@@ -1,0 +1,6 @@
+// Yönetici onayındaki izini onaylama
+{
+    "leaveId": 1,
+    "approve": true,
+    "description": "test"
+}
